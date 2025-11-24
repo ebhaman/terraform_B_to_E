@@ -1,8 +1,8 @@
 terraform {
-    requirequired_version = "1.7.8"
-    bacbackend "s3" {
+    requirequired_version = "1.7.8" 
+    backend "s3" {
       
-    }   
+    }
   required_providers {
     aws = {
       source  = "hashicorp/aws"
