@@ -2,3 +2,4 @@
 01-benefits-iac/.terraform/.terraform/
 03-first-tf-project/.terraform/
 04-backends/.terraform/
+05-modules/.terraform/
